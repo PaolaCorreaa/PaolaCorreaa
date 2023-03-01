@@ -1,5 +1,5 @@
 ### Hi there 👋 Soy Paola Correa Gómez.
-
+I am a computer systems engineer
 <!--
 **PaolaCorreaa/PaolaCorreaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
