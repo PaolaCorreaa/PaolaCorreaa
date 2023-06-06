@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Certificaciones:
 ![Certificado](https://user-images.githubusercontent.com/95337056/222486929-f4937443-c2fc-4552-968a-edcaac5b448e.jpg)
 
+![2Course_CertificateGoogleTagManager_page-0001](https://github.com/PaolaCorreaa/PaolaCorreaa/assets/95337056/b16be3bb-8583-42e3-8f78-0eff666d6ae7)
